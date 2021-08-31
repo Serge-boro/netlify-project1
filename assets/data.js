@@ -7,14 +7,14 @@ const items = [
   //   },
   //   price: 39.95,
   // },
-  {
-    id: 'recvKMNR3YFw0bEt3',
-    name: 'entertainment center',
-    image: {
-      url: 'https://dl.airtable.com/.attachments/da5e17fd71f50578d525dd5f596e407e/d5e88ac8/product-2.jpg',
-    },
-    price: 29.98,
-  },
+  // {
+  //   id: 'recvKMNR3YFw0bEt3',
+  //   name: 'entertainment center',
+  //   image: {
+  //     url: 'https://dl.airtable.com/.attachments/da5e17fd71f50578d525dd5f596e407e/d5e88ac8/product-2.jpg',
+  //   },
+  //   price: 29.98,
+  // },
   {
     id: 'recxaXFy5IW539sgM',
     name: 'albany sectional',

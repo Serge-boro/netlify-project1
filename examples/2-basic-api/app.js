@@ -8,7 +8,7 @@ const resultApi = async () => {
     if (date.length) {
       getFetch(date)
     } else {
-      result.innerHTML = 'There not such products'
+      result.innerHTML = 'There not such product'
     }
     console.log(date)
   } catch (error) {
